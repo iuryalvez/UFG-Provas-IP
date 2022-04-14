@@ -1,2 +1,4 @@
 # UFG-Provas-de-IP
-Provas da disciplina de Introdução à Programação do curso de Ciência da Computação
+
+Provas realizadas na disciplina de Introdução à Programação do 
+curso de Ciência da Computação (primeiro período).
